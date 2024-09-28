@@ -1,0 +1,16 @@
+{
+  "cities": [
+    {
+      "id": "8f32",
+      "cityName": "Kunpeszer",
+      "country": "Hungary",
+      "emoji": "🇭🇺",
+      "date": "2024-09-21T19:59:37.020Z",
+      "notes": "",
+      "position": {
+        "lat": "47.040182144806664",
+        "lng": "19.248046875000004"
+      }
+    }
+  ]
+}
